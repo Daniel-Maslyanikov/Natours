@@ -1,5 +1,5 @@
 # Natours
-SPA that I made during the udemy course - Advanced CSS and Sass Flexbox, Grid, Animations and More!
+SPA that I made during the udemy course - Advanced CSS and Sass Flexbox, Grid, Animations and More! This is only UI without functionality!
 
 
 ## Build Setup
